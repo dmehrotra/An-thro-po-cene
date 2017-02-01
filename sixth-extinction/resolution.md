@@ -5,17 +5,22 @@ I started by purchasing the domain names of various animals that human activity 
 
 ![alt text](./photos/domains.png "")
 
+### 1.
 I then thought of ways to summon these animals. I pinged them:  
 
 ![alt text](./photos/ping.png "Logo Title Text 1")  
+
+### 2.
 
 How do I find them, what is my path to them?    
 
 ![alt text](./photos/traceroute.png "next")
 
-who are they?  
+### 3. who are they?  
 
 ![alt text](./photos/whois.png "Logo Title Text 1")  
+
+### 4. 
 
 Did this bring me any closer to the animal that I had killed? No, I don’t really think so. These species are extinct.  And trying to conjure them through the wires of the internet seemed to lesson the gravity of the very fact of their extinction.    
 
