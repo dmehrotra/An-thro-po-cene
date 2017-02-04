@@ -13,14 +13,20 @@ This paper imagines a few potential future civilizations, including:
 2. One where Human existence went through a period of global catastrophe in which it was reduced to illiteracy and something bordering on a Stone Age level of technology, and then redeveloped new patterns of technological sophistication, new literacy, and new science.
 
 The DOE goes on to propose a few massive earth works to denote the particular dangers of the radioactive site.  
- 
+
+![alt text](./photos/3.png "") 
+![alt text](./photos/4.png "")  
+![alt text](./photos/5.png "") 
+![alt text](./photos/6.png "") 
+![alt text](./photos/7.png "") 
+
 Of interest to me here is the defeatist attitude that the DOE has adopted.  As if both the nuclear waste and its radioactive decay were always inevitable and unavoidable.  Instead of committing tax payer dollars to scientific research about waste disposal and community outreach, the DOE chose to assemble teams of futurists to discuss the possibility of signaling radioactive danger to future societies.  Perhaps its fitting that we can use he future anterior tense here to say  that the radioactive waste will have finished being dangerous in over 10,000 years…but truthfully its more fitting to remember that this project was scrapped and defunded.  
 
+Sodikoff, Genese Marie, ed. The Anthropology of Extinction : Essays on Culture and Species Death. Bloomington, IN, US: Indiana University Press, 2011. ProQuest ebrary. Web. 4 February 2017.  
 
-Sodikoff, Genese Marie, ed. The Anthropology of Extinction : Essays on Culture and Species Death. Bloomington, IN, US: Indiana University Press, 2011. ProQuest ebrary. Web. 4 February 2017.
+Kathleen M. Trauth, Stephen C. Hera, Robert V. Guzowsti. 1993. Expert Judgment on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant  SAND88-2871. Albuquerque, NM: Sandia National Labs  
 
-Kathleen M. Trauth, Stephen C. Hera, Robert V. Guzowsti. 1993. Expert Judgment on Markers to Deter Inadvertent Human Intrusion into the Waste Isolation Pilot Plant  SAND88-2871. Albuquerque, NM: Sandia National Labs
+http://www.wipp.energy.gov/PICsProg/Test1/SAND%2092-1382.pdf  
 
-http://www.wipp.energy.gov/PICsProg/Test1/SAND%2092-1382.pdf
-https://www.osti.gov/scitech/servlets/purl/6705990
+https://www.osti.gov/scitech/servlets/purl/6705990  
 
