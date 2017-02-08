@@ -22,9 +22,8 @@ I want to think of a research methedology to explore this phenomena as it relate
 
 I have spent a lot of time thinking about the geolical legacy of war technology.  To me, this concept is no better illustrated than in the craters left in Nevada from Atomic Weapons Test, and in the storage sites of radioactive waste. This waste forces politicians to confront policy with a non-electoral timeline that stretches far beyond their electoral tenure and into the futures of the great great great great grandchildren.  In my last blog post I wrote about how DOE scientists have imagined future societies in order to signal to them the dangers of nuclear storage facilities.  This poison will last longer than humans and will be a dangerous relic of our society to future worlds. How can I explore the concept of radioactive waste from the lense of a future society stumbling across our world as an archaeologist?
 
-1. Can I recreate the proposed DOE earth works in VR?  Is this interesting?
-2.   
-3.   
+1. Can I recreate a well researched multi-media proposal for an earthworks site following the criterea and methodology of the DOE?  I want to research materials, linguistics, and semiotics to speculate about a future society who needs to be warned of irradiated land. Ideally i'd like to come up with a real cost, and path forward for my proposed earthwork.  Potential avenues of exploration include a kick starter video, 3d models, architectural models, timeline, cost sheet with pricepoints...etc
+
 
 ### Potential Experts I'd like to speak to:
 
