@@ -7,3 +7,6 @@ Talk like this is often dismissed as impractical: "You have to work within the s
 
 These thoughts come from Arun Saldanha (University of Minnesota), “Capital, extinction, race: Undead as a dodo” and Miriam Tola (Rutgers University), “The Extinction of Species-Being”.  
 
+## About The Loss of the Future Anterior
+
+I've been doing some more research about language death leading up to a proposal for next week...but all of my research is leading me to historical cases of language loss due to assimilation or conquest.  Im not sure how useful this is for the poetic comparison im trying to employ -> That the extinction of this tense is a product of the sixth extinction.  A human lack of ability to imagine the future.  Poetically enough this tense is also referred to as the Future Perfect. 
