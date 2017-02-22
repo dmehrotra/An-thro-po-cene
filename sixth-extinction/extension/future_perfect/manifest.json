@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "future-perfect",
+  "version": "0.1",
+  "content_scripts": [
+  {
+    "matches": ["https://www.exxon.com/en/"],
+    "js": ["jquery-1.12.3.min.js","app.js"]
+  }
+]
+}
